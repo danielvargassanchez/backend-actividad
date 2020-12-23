@@ -1,5 +1,7 @@
 ## base de datos postgres y hay un archivo sql dentro de la carpeta database para crear la estructura e insertar algunos datos
 
+## iniciar con npm run dev
+
 ## end points
 
 ## localhost:4000/products - metodo get
